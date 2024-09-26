@@ -1,11 +1,11 @@
 # breath-diabetes-synthetic-data
 This repository contains synthetic data generated for the study titled "Enhanced Diabetes Detection and Blood Glucose Prediction Using TinyML-Integrated E-Nose and Breath Analysis: A Novel Approach Combining Synthetic and Real-World Data." The synthetic data was created using Conditional Generative Adversarial Networks (CTGAN) and is intended for use in non-invasive diabetes detection research and machine learning model validation.
 
-Data Description
-File: diabetessynthetic.csv
-Number of Samples: 14,000
+## Data Description
+- File: diabetessynthetic.csv
+- Number of Samples: 14,000
 Data Fields:
-Biometrics and health metrics similar to the original dataset, including synthetic blood glucose levels, acetone concentrations, and other relevant features.
+- Biometrics and health metrics similar to the original dataset, including synthetic blood glucose levels, acetone concentrations, and other relevant features.
 This synthetic dataset replicates the statistical characteristics of the original data, which includes biometric and health information from participants with and without diabetes mellitus.
 
 Purpose and Usage
