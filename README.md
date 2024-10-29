@@ -18,7 +18,7 @@ This dataset is licensed under the MIT License. You are free to use, modify, and
 
 Citation
 If you use this data in your research, please cite the original study as follows:
-Gudiño-Ochoa, A., García-Rodríguez, J. A., Cuevas-Chávez, J. I., Ochoa-Ornelas, R., Navarrete-Guzmán, A., Vidrios-Serrano, C., & Sánchez-Arias, D. A. (2024). Enhanced Diabetes Detection and Blood Glucose Prediction Using TinyML-Integrated E-Nose and Breath Analysis: A Novel Approach Combining Synthetic and Real-World Data. Bioengineering.
+Gudiño-Ochoa, A., García-Rodríguez, J. A., Cuevas-Chávez, J. I., Ochoa-Ornelas, R., Navarrete-Guzmán, A., Vidrios-Serrano, C., & Sánchez-Arias, D. A. (2024). Enhanced Diabetes Detection and Blood Glucose Prediction Using TinyML-Integrated E-Nose and Breath Analysis: A Novel Approach Combining Synthetic and Real-World Data. Bioengineering, 11(11), 1065.
 
 Contact
 For any questions or requests regarding the original dataset, please contact the corresponding author:
